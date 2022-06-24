@@ -1,0 +1,7 @@
+{
+  "extends": "eslint:recommended",
+  "plugins": ["jest"],
+  "env": {
+    "jest/globals": true
+  }
+}
